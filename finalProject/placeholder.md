@@ -1,1 +1,0 @@
-This file is a placeholder to create a new directory on the GitHub repository. It will be deleted. This folder will be home to materials related to the final project for SOC/HIST/STS 2604 (Fried) at Virginia Tech for Fall 2018.
